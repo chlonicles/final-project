@@ -1,1 +1,10 @@
-{}
+{
+    "testuser1": {
+        "password": "testuser1",
+        "plate": [
+            "bacon",
+            "beef",
+            "cheese"
+        ]
+    }
+}
