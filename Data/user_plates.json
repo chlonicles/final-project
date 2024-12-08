@@ -6,5 +6,39 @@
             "beef",
             "cheese"
         ]
+    },
+    "sample1": {
+        "password": "sample1",
+        "plate": [
+            "cabbage",
+            "rice",
+            "tomato",
+            "beef",
+            "marshmallow",
+            "gelatin",
+            "sneakers"
+        ]
+    },
+    "sample2": {
+        "password": "sample2",
+        "plate": [
+            "broccoli",
+            "cabbage",
+            "beef",
+            "marshmallow",
+            "sneakers",
+            "chicken",
+            "rice",
+            "orange"
+        ]
+    },
+    "sample3": {
+        "password": "sample3",
+        "plate": [
+            "cheese",
+            "lettuce",
+            "tomato",
+            "apple"
+        ]
     }
 }
